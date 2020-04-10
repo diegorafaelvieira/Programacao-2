@@ -1,0 +1,5 @@
+1real/10/1.00
+50centavos/10/0.50
+25centavos/10/0.25
+10centavos/10/0.10
+5centavos/10/0.05

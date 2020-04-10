@@ -1,0 +1,64 @@
+Exercício 1
+x= 10
+repeticoes = 0
+###############
+y = 7
+x = 8
+repeticao = 1
+###############
+y = 5
+x = 6
+repeticao = 2
+###############
+y = 3
+x = 4
+repeticao = 3
+###############
+y = 1
+x = 2
+repeticao = 4
+################
+y = -1
+x = 0
+repeticao = 5
+
+ACABA AQUI
+
+Saída:
+8
+6
+4
+2
+0
+5 repeticoes.
+**********************************************************
+Exercício 2
+Saída:
+
+15000
+18000
+20000
+**********************************************************
+Exercício 3
+ 
+Saída: 
+
+Senna é da modalidade F1.
+Valentino Rossi é da modalidade MotoGP.
+**********************************************************
+Exercício 4
+
+
+danoAdversario	  | 	adversarioAbatido      
+0		  |	false
+2                 |     false                           
+10      	  |	true				 	
+12                |     true                                 
+                                                         
+Saída:							 
+
+Batman aplica golpe 1!
+Batman aplica golpe 2!
+Oponente fora de combate!
+Batman aplica golpe 1!
+Batman sem nocao!

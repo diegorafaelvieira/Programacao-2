@@ -1,2 +1,2 @@
-# Programacao 2
- Repositório da disciplina de Programação 2 - Python - IFRS Campus Feliz - 2017/2
+# Programação 2
+ Repositório da disciplina de Programação 2 - Java - IFRS Campus Feliz - 2017/2
